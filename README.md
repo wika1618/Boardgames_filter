@@ -33,4 +33,4 @@ Funckjonalności przydatne:
 Fukcjonalości opcjonalne:
 - Rejestracja oraz logowanie - możliwośc rejestracji oraz późniejszej możliwości zalogowania się do konta. Z profilu można wystawić oceny i wejść do prywatnego katalogu z zapisanymi grami
 
-4. Architektura systemu i Biblioteki użyte w aplikacji
+4. Architektura systemu i Biblioteki użyte w aplikacji (opisz przy bibliotece do czego służy)
